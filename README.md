@@ -13,4 +13,4 @@ D - Right
 
 Press any key to start the game.
 
-There are 10 levels in this game in which the user will experience increasing accelearation in each level.
+There are 10 levels in this game in which the user will experience increasing acceleration in each level.
